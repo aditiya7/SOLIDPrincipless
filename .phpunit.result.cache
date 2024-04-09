@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AreaCalculatorTest::testCalculateArea":7,"VolumeCalculatorTest::testCalculateVolume":7},"times":{"AreaCalculatorTest::testCalculateArea":0.007,"VolumeCalculatorTest::testCalculateVolume":0}}
